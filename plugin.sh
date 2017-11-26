@@ -1,4 +1,4 @@
-#cd ~/.vim/bundle
+cd ~/.vim/bundle
 # YouCompleteMe		
 git clone https://github.com/valloric/youcompleteme
 #nerdtree		
